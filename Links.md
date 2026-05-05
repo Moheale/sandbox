@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-05 15:09 IR
+- 📥 [JackOfBullets - The Curse of Neferiset.7z](https://github.com/Moheale/sandbox/raw/main/dl/JackOfBullets%20-%20The%20Curse%20of%20Neferiset.7z) `93.8MB`
+
+---
+
+
 ### 📅 2026-05-05 10:56 IR
 - 🗜️ [JackOfBullets - Beanstalked.7z.zip](https://github.com/Moheale/sandbox/raw/main/dl/JackOfBullets%20-%20Beanstalked.7z.zip) `58.4MB`
 
