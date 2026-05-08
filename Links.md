@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-08 14:06 IR
+- 📥 [HA-3-kpcoxg.pdf](https://github.com/Moheale/sandbox/raw/main/dl/HA-3-kpcoxg.pdf) `51.7MB`
+
+---
+
+
 ### 📅 2026-05-08 13:38 IR
 - 🗜️ [ha2.pdf.zip](https://github.com/Moheale/sandbox/raw/main/dl/ha2.pdf.zip) `57.1MB`
 
